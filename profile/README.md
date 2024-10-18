@@ -10,5 +10,4 @@ Uma empresa de tecnologia que automatiza processos, abre mentes e transforma neg
 
 ## Redes sociais
 - [WebSite](https://gomind.com.br)
-- [GitHub](https://github.com/Plataforma-Mia)
 - [LinkedIn](https://www.linkedin.com/company/go-mind-solutions/)
